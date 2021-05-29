@@ -1,0 +1,10 @@
+
+Lsquid:S1068".Remove this unused "dateFormat" private field.(Ì‡ê8ÿ¨¡—/
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(É‡¨ñ8ìë¤¡—/
+Esquid:S2885"'Make "dateFormat" an instance variable.(Ì‡ê8ÿ¨¡—/
+Isquid:S2885"+Make "dateTimeFormat" an instance variable.(õÜ—8”±‘¡—/
+Lsquid:S1068".Remove this unused "timeFormat" private field.(ùÑèï8±ç’¡—/
+qsquid:ModifiersOrderCheck&"EReorder the modifiers to comply with the Java Language Specification.(šçÁ¼8íş¤¡—/
+Esquid:S2885"'Make "timeFormat" an instance variable.(ùÑèï8±ç’¡—/
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ìˆ¡—/
+vsquid:ModifiersOrderCheck5"EReorder the modifiers to comply with the Java Language Specification.(›‚ù¾øÿÿÿÿ8ê¬¨¡—/

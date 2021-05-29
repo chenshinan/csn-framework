@@ -1,0 +1,9 @@
+
+Esquid:S1068
+".Remove this unused "parameters" private field.(ÜÉĞ“
+?squid:S1068"(Remove this unused "code" private field.(²âèú
+Gsquid:S1068"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿ
+:squid:S1165
+"#Make this "parameters" field final.(ÜÉĞ“
+4squid:S1165"Make this "code" field final.(²âèú
+<squid:S1165" Make this "message" field final.(ù„è¿ûÿÿÿÿ
